@@ -1,6 +1,6 @@
 <?php
 /**
- * The template for displaying pages
+ * Template Name: Sidebar Right
  *
  * This is the template that displays all pages by default.
  * Please note that this is the WordPress construct of pages and that
@@ -15,6 +15,8 @@ get_header(); ?>
 
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
+
+		<h1>This is a custom page template to display a sidebar on the right</h1>
 
 		<?php
 		// Start the loop.
